@@ -1,0 +1,13 @@
+{
+  "description": "BioVault — Biometric Password Vault. Expo React Native, SQLite, WebCrypto.",
+  "engines": {
+    "node": ">=20"
+  },
+  "name": "biovault",
+  "private": true,
+  "scripts": {
+    "test": "node --test \"tests/*.test.js\""
+  },
+  "version": "1.0.0",
+  "type": "module"
+}
